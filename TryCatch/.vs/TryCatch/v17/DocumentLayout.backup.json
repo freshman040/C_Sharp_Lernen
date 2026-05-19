@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\C#_Projekte\\TryCatch\\",
+  "WorkspaceRootPath": "C:\\dev\\C#_Projekte\\C_Sharp_Lernen\\TryCatch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCB76245-D816-450B-B476-880744DDCAB3}|TryCatch\\TryCatch.csproj|c:\\dev\\c#_projekte\\trycatch\\trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCB76245-D816-450B-B476-880744DDCAB3}|TryCatch\\TryCatch.csproj|c:\\dev\\c#_projekte\\c_sharp_lernen\\trycatch\\trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCB76245-D816-450B-B476-880744DDCAB3}|TryCatch\\TryCatch.csproj|solutionrelative:trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\C#_Projekte\\TryCatch\\TryCatch\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\C#_Projekte\\C_Sharp_Lernen\\TryCatch\\TryCatch\\Program.cs",
               "RelativeDocumentMoniker": "TryCatch\\Program.cs",
-              "ToolTip": "C:\\dev\\C#_Projekte\\TryCatch\\TryCatch\\Program.cs",
+              "ToolTip": "C:\\dev\\C#_Projekte\\C_Sharp_Lernen\\TryCatch\\TryCatch\\Program.cs",
               "RelativeToolTip": "TryCatch\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAnwCIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T13:23:18.502Z",
               "EditorCaption": ""
